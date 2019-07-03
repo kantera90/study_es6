@@ -1,1 +1,1 @@
-export { default as Greeting } from './hello.js';
+export {default as Greeting} from './hello.js';
